@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first repositery.
 <br> 
-Author Name - Jayant
+Author Name - Jayant Parashar
